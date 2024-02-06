@@ -39,3 +39,9 @@ print(resultado_comp_vectores)
 
 # Asignación múltiple: "a" y "b" valen 30
 a <- b <- "Ambar"
+
+vector <- c("ambar", "bariscita", "granate","fluorita","cuarcita")
+print(vector)
+
+vector <- c("ambar",1,"bariscita", "granate","fluorita","cuarcita")
+print(vector)
