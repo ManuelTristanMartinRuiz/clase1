@@ -15,3 +15,11 @@ valor_resta <- 20-10
 valor_mult <- 20*10
 # División
 valor_div <- 20/10
+# Potencia (elevar a)
+resultado_potencia <- 2^3
+print(resultado_potencia)
+# Raíz cuadrada
+resultado_raiz <- sqrt(16)
+print(resultado_raiz)
+
+# 4. Operadores lógicos
