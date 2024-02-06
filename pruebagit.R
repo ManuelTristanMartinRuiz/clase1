@@ -36,3 +36,6 @@ vector <- c(1,2,3,4,5)
 # verificar si 3 está en el vector
 resultado_comp_vectores <- 3 %in% vector
 print(resultado_comp_vectores)
+
+# Asignación múltiple: "a" y "b" valen 30
+a <- b <- "Ambar"
