@@ -22,4 +22,11 @@ print(resultado_potencia)
 resultado_raiz <- sqrt(16)
 print(resultado_raiz)
 
+valor1 = 10
+valor2 = 20
+
+valor1 ==valor2
+
 # 4. Operadores lógicos
+
+#
