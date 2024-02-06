@@ -10,3 +10,8 @@ if (file.exists(nuevo_dir)) {cat("Directorio creado correctamente: ", nuevo_dir,
 valor_suma <- 10+20
 print(valor_suma)
 # Resta
+valor_resta <- 20-10
+# Multiplicación
+valor_mult <- 20*10
+# División
+valor_div <- 20/10
