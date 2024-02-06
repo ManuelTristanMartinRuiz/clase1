@@ -22,11 +22,17 @@ print(resultado_potencia)
 resultado_raiz <- sqrt(16)
 print(resultado_raiz)
 
+# 4. Operadores lógicos
+
 valor1 = 10
 valor2 = 20
 
 valor1 ==valor2
 
-# 4. Operadores lógicos
+#Ejemplo: verifica si 3 está en el vector
+#Creamos un vector
+vector <- c(1,2,3,4,5)
 
-#
+# verificar si 3 está en el vector
+resultado_comp_vectores <- 3 %in% vector
+print(resultado_comp_vectores)
