@@ -45,3 +45,22 @@ print(vector)
 
 vector <- c("ambar",1,"bariscita", "granate","fluorita","cuarcita")
 print(vector)
+
+typeof(vector)
+
+matriz1 <- matrix(c(1,2,3,4,5,6), 
+                  nrow = 2, ncol = 3, 
+                  byrow = F)
+print(matriz1)
+
+matriz2 <- matrix(c(1,2,3,4,5,6), 
+                  nrow = 2, ncol = 3, 
+                  byrow = T)
+print(matriz2)
+
+data_frame <- data.frame(
+  nombre = c("Ana","Bob","Carlos"),
+  edad = c(21, 24, 22),
+  aprobado = c(FALSE, FALSE, TRUE)
+)
+print(data_frame)
