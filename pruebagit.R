@@ -5,3 +5,8 @@ if (file.exists(nuevo_dir)) {cat("Directorio creado correctamente: ", nuevo_dir,
     cat("Fallo al crear directorio: ", nuevo_dir, "\n")
   }
   
+# 3. Operaciones matematicas basicas
+# Suma
+valor_suma <- 10+20
+print(valor_suma)
+# Resta
